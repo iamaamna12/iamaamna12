@@ -17,7 +17,6 @@
 
 ## 🚀 **Let's Connect!**
 💼 [LinkedIn](https://www.linkedin.com/in/aamna-shahab-146509135)  
-📂 [Portfolio](https://aamnashahab.com) *(Coming Soon!)*  
 🐦 [Twitter](https://x.com/livmedafacologn) 
 
 🌟 **Looking for like-minded people to collaborate on impactful projects! Let’s build something amazing together.**  
