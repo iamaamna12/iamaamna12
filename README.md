@@ -9,15 +9,14 @@
 ---
 
 ## 🛠️ **What I Do**
-🔹 **Currently:** Software Tester | Improving automation & QA strategies  
-🔹 **Learning:** Advanced React, TypeScript, Doing Code Challenges and exploring open-source contributions  
+🔹 **Currently:** Software Tester (Playwright/TypeScript)| Improving automation & QA strategies  
+🔹 **Learning:** Advanced React, Doing Code Challenges and exploring open-source contributions  
 🔹 **Collaborating On:** Exciting web projects, startups, and tech innovations  
 
 ---
 
 ## 🚀 **Let's Connect!**
-💼 [LinkedIn](https://www.linkedin.com/in/aamna-shahab-146509135)  
-🐦 [Twitter](https://x.com/livmedafacologn) 
+https://aamnashahab.com
 
 🌟 **Looking for like-minded people to collaborate on impactful projects! Let’s build something amazing together.**  
 
